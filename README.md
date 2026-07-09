@@ -24,4 +24,5 @@ Desenvolver minhas habilidades como programador, aprender novas linguagens e con
 <p align="center">
   <img src="https://cyber.dabamos.de/88x31/github.gif">
   <img src="https://cyber.dabamos.de/88x31/119.gif">
+  <img src="https://cyber.dabamos.de/88x31/78.gif">
 </p>
