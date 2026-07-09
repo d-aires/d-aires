@@ -25,11 +25,6 @@ Improve my programming skills, learn new languages and build projects to grow in
 
 - neaa01111@gmail.com
 - Instagram: d.aires._
-- <p align="center">
-  <img src="https://media1.tenor.com/m/52GyC8pJWQcAAAAd/dial-up-modem.gif" alt="Dial-up Modem" width="500">
-</p>
-
-<img src="marquee.svg" alt="Banner">
 
 <p align="center">
 <p align="center">
