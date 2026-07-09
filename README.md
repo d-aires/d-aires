@@ -7,7 +7,6 @@
 💻 Atualmente estudando:
 - Python
 - Git
-- GitHub
 
 📚 Em breve aprendendo:
 - JavaScript
