@@ -1,8 +1,7 @@
 # Olá! 👋 Eu sou Daniel
 <p align="center">
-  <img src="welcome.png" alt="Welcome">
+  <img src="welcome.gif" alt="Welcome">
 </p>
-
 🎓 Prestes a iniciar Ciência da Computação.
 
 💻 Atualmente estudando:
