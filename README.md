@@ -22,10 +22,6 @@
 Improve my programming skills, learn new languages and build projects to grow in the software development field.
 
 ## Contact
-<p align="center">
-  <a href="https://blinkies.cafe">
-    <img src="https://blinkies.cafe/b/display/blinkiesCafe-badge.gif" alt="blinkies.cafe">
-  </a>
 
   <a href="https://instagram.com/d.aires._">
     <img src="https://img.shields.io/badge/@d.aires._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
