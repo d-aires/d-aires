@@ -23,7 +23,7 @@ Improve my programming skills, learn new languages and build projects to grow in
 
 ## Contact
 
--<a href="https://instagram.com/d.aires._">
+- <a href="https://instagram.com/d.aires._">
     <img src="https://blinkies.cafe/b/display/0199-instagramlogo.gif" alt="Instagram">
   </a>
 </p>
