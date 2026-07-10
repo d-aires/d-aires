@@ -23,13 +23,14 @@ Improve my programming skills, learn new languages and build projects to grow in
 
 ## Contact
 
-<a href="https://instagram.com/d.aires._">
-  <img src="./assets/instagram.gif">
-</a>
-
-<a href="mailto:seuemail@gmail.com">
-  <img src="./assets/email.gif">
-</a>
+<p align="center">
+  <a href="https://blinkies.cafe">
+    <img src="https://blinkies.cafe/b/display/blinkiesCafe-badge.gif" alt="blinkies.cafe">
+  </a>
+  <br><br>
+  ✦ find me on instagram ✦<br>
+  <a href="https://instagram.com/d.aires._">@d.aires._</a>
+</p>
 
 <img src="marquee.svg" alt="Banner">
 <p align="center">
