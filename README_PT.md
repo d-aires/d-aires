@@ -18,9 +18,11 @@
 Desenvolver minhas habilidades como programador, aprender novas linguagens e construir projetos para evoluir na área de desenvolvimento de software.
 
 ## Contato
-- neaa01111@gmail.com
-- ig: d.aires._
-<img src="marquee.svg" alt="Banner">
+-   <a href="https://instagram.com/d.aires._">
+    <img src="https://blinkies.cafe/b/display/0199-instagramlogo.gif" alt="Instagram">
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://cyber.dabamos.de/88x31/github.gif">
