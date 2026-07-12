@@ -1,37 +1,55 @@
-# Hi! 👋 I'm Daniel
+<h1 align="center">Hi there, I'm Daniel 👋</h1>
 
 <p align="center">
-  <img src="welcome.png" alt="Welcome">
+  <img src="welcome.png" alt="Welcome" width="100%">
 </p>
 
-🎓 Soon starting Computer Science.
+<p align="center">
+  🎓 Preparing to start a Computer Science degree — studying ahead to arrive with a strong foundation<br>
+  🚀 Aspiring <b>Fullstack Developer</b> focused on Web & AI
+</p>
 
-💻 Currently studying:
+---
 
-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />          
-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### 💻 Currently studying
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-📚 Soon learning:
+### 📚 Coming up next
+<p align="left">
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+### 🎯 Goal
+Build a solid foundation in software development to work as a **Fullstack Developer**, combining modern web technologies with **AI-powered applications**. Currently focused on strengthening core programming skills before diving into frameworks and real-world projects.
 
-- <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white">
+---
 
-🚀 Goal:
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=d-aires&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-Improve my programming skills, learn new languages and build projects to grow in the software development field.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-aires&theme=radical" alt="GitHub Streak" />
+</p>
 
-## Contact
+---
 
-- <a href="https://instagram.com/d.aires._">
-    <img src="https://blinkies.cafe/b/display/0199-instagramlogo.gif" alt="Instagram">
+### 📫 Contact
+<p align="left">
+  <a href="https://instagram.com/d.aires._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="marquee.svg" alt="Banner">
 <p align="center">
-<p align="center">
-  <img src="https://cyber.dabamos.de/88x31/github.gif">
-  <img src="https://cyber.dabamos.de/88x31/119.gif">
-  <img src="https://cyber.dabamos.de/88x31/78.gif">
+  <img src="marquee.svg" alt="Banner">
 </p>
