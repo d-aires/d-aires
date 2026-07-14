@@ -14,12 +14,9 @@
 ### 💻 Currently studying
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 ### 📚 Coming up next
 <p align="left">
-  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
